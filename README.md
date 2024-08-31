@@ -1,5 +1,5 @@
 #  About Me:
-🔭Hey, I'm Shyam. I'm Machine Learning Developer , Data Analyst, and Full Stack Developer enthusiast based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.<br>💬 Ask me about MachineLearning & WebDev
+Hey, I'm Shyam. I'm Machine Learning Developer , Data Analyst, and Full Stack Developer enthusiast based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.<br>Ask me about MachineLearning & WebDev
 
 
 ## Socials🌐:
