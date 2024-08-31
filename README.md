@@ -2,7 +2,7 @@
 🔭Hey, I'm Shyam. I'm Machine Learning Developer , Data Analyst, and Full Stack Developer enthusiast based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.<br>💬 Ask me about MachineLearning & WebDev
 
 
-##Socials🌐:
+## Socials🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kadiwar-6bb865249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KadiwarShyam) 
 
 # Tech Stack💻:
@@ -19,7 +19,7 @@
 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-##GitHub Stats📊:
+## GitHub Stats📊:
 ![](https://github-readme-streak-stats.herokuapp.com?user=ShyamKadiwar&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKadiwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
