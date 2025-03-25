@@ -1,9 +1,14 @@
 #  About Me:
 I'm shyam. I'm Full Stack Developer, currently learning about depths of Machine Learning based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.<br>Ask me about MachineLearning & WebDev
 
-
-## Socials🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kadiwar-6bb865249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KadiwarShyam) 
+
+## 📘 Latest Blogs
+
+| Blog Title                                                                                                      | Date              |
+|-----------------------------------------------------------------------------------------------------------------|-------------------|
+| [**Authentication in Next.js with NextAuth.js**](https://medium.com/@shyamkadiwar17/authentication-in-next-js-with-nextauth-js-1871fbcd47d3)                             | March 25, 2025    |
+
 
 # Tech Stack💻:
 
