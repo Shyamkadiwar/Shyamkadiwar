@@ -8,6 +8,7 @@ I'm shyam. I'm Full Stack Developer, currently learning about depths of Machine 
 | Blog Title                                                                                                      | Date              |
 |-----------------------------------------------------------------------------------------------------------------|-------------------|
 | [**Authentication in Next.js with NextAuth.js**](https://medium.com/@shyamkadiwar17/authentication-in-next-js-with-nextauth-js-1871fbcd47d3)                             | March 25, 2025    |
+| [**Retrieval-Augmented Generation (RAG)**](https://medium.com/@shyamkadiwar17/retrieval-augmented-generation-rag-02251fda6075)                             | April 03, 2025    |
 
 
 # Tech Stack:
